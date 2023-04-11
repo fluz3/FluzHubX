@@ -871,5 +871,5 @@ local CreditsTab = Window:MakeTab({
 	PremiumOnly = false
 })
  
-CreditsTab:AddLabel("Made by Hybuzaa#3916")
-CreditsTab:AddParagraph("wait for new update will adding new features","nice")
+CreditsTab:AddLabel("Made by Fluz#8476")
+CreditsTab:AddParagraph("Credits Angelo my boy")
