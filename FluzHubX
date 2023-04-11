@@ -1,5 +1,5 @@
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
-local Window = OrionLib:MakeWindow({Name = "FluzHub", HidePremium = false, SaveConfig = false, ConfigFolder = "OrionTest", IntroText = "FluzHubX"})
+local Window = OrionLib:MakeWindow({Name = "FluzHub", HidePremium = false, SaveConfig = false, ConfigFolder = "OrionTest", IntroText = "FluzHub"})
  
  
  
@@ -873,4 +873,3 @@ local CreditsTab = Window:MakeTab({
  
 CreditsTab:AddLabel("Made by Hybuzaa#3916")
 CreditsTab:AddParagraph("wait for new update will adding new features","nice")
-("Fluz")
